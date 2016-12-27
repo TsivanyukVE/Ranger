@@ -1,0 +1,11 @@
+*.ds_store
+
+/.vscode
+
+/.vs
+/packages
+project.lock.json
+
+**/bin
+
+**/obj

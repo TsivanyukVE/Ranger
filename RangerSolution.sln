@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ranger.Library", "source\Ranger.Library\Ranger.Library.csproj", "{1E7629AE-54E6-41CA-B4AF-7942F79B393C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ranger.Tests", "test\Ranger.Tests\Ranger.Tests.csproj", "{FAAEC0C0-AD69-4877-A77B-10AF64E9F10F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7629AE-54E6-41CA-B4AF-7942F79B393C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7629AE-54E6-41CA-B4AF-7942F79B393C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7629AE-54E6-41CA-B4AF-7942F79B393C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7629AE-54E6-41CA-B4AF-7942F79B393C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAAEC0C0-AD69-4877-A77B-10AF64E9F10F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAEC0C0-AD69-4877-A77B-10AF64E9F10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAEC0C0-AD69-4877-A77B-10AF64E9F10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAEC0C0-AD69-4877-A77B-10AF64E9F10F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
